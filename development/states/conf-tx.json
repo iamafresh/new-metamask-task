@@ -1,0 +1,211 @@
+{
+  "metamask": {
+    "isInitialized": true,
+    "isUnlocked": true,
+    "rpcTarget": "https://rawtestrpc.metamask.io/",
+    "identities": {
+      "0xfdea65c8e26263f6d9a1b5de9555d2931a33b825": {
+        "address": "0xfdea65c8e26263f6d9a1b5de9555d2931a33b825",
+        "name": "Account 1"
+      },
+      "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb": {
+        "address": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+        "name": "Account 2"
+      },
+      "0x2f8d4a878cfa04a6e60d46362f5644deab66572d": {
+        "address": "0x2f8d4a878cfa04a6e60d46362f5644deab66572d",
+        "name": "Account 3"
+      },
+      "0x18c643c9cf21027339c8648fbaa2f348ddcbe00a": {
+        "address": "0x18c643c9cf21027339c8648fbaa2f348ddcbe00a",
+        "name": "Account 4"
+      },
+      "0x9858e7d8b79fc3e6d989636721584498926da38a": {
+        "address": "0x9858e7d8b79fc3e6d989636721584498926da38a",
+        "name": "Account 5"
+      }
+    },
+    "unapprovedTxs": {
+      "4768706228115573": {
+        "id": 4768706228115573,
+        "time": 1487363153561,
+        "status": "unapproved",
+        "gasMultiplier": 1,
+        "metamaskNetworkId": "3",
+        "txParams": {
+          "from": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+          "to": "0x18a3462427bcc9133bb46e88bcbe39cd7ef0e761",
+          "value": "0xde0b6b3a7640000",
+          "metamaskId": 4768706228115573,
+          "metamaskNetworkId": "3",
+          "gas": "0x5209"
+        },
+        "gasLimitSpecified": false,
+        "estimatedGas": "0x5209",
+        "txFee": "17e0186e60800",
+        "txValue": "de0b6b3a7640000",
+        "maxCost": "de234b52e4a0800",
+        "gasPrice": "4a817c800"
+      }
+    },
+    "currentCurrency": "USD",
+    "conversionRate": 12.7200827,
+    "conversionDate": 1487363041,
+    "noActiveNotices": true,
+    "lastUnreadNotice": {
+      "read": true,
+      "date": "Thu Feb 09 2017",
+      "title": "Terms of Use",
+      "body": "# Terms of Use #\n\n**这是条款",
+      "id": 0
+    },
+    "network": "3",
+    "accounts": {
+      "0xfdea65c8e26263f6d9a1b5de9555d2931a33b825": {
+        "code": "0x",
+        "nonce": "0x12",
+        "balance": "0x6ae7c45a61c0e8d2",
+        "address": "0xfdea65c8e26263f6d9a1b5de9555d2931a33b825"
+      },
+      "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb": {
+        "code": "0x",
+        "balance": "0x136b2c3ecfdb480",
+        "nonce": "0x2",
+        "address": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb"
+      },
+      "0x2f8d4a878cfa04a6e60d46362f5644deab66572d": {
+        "code": "0x",
+        "balance": "0x0",
+        "nonce": "0x0",
+        "address": "0x2f8d4a878cfa04a6e60d46362f5644deab66572d"
+      },
+      "0x18c643c9cf21027339c8648fbaa2f348ddcbe00a": {
+        "code": "0x",
+        "balance": "0x0",
+        "nonce": "0x0",
+        "address": "0x18c643c9cf21027339c8648fbaa2f348ddcbe00a"
+      },
+      "0x9858e7d8b79fc3e6d989636721584498926da38a": {
+        "code": "0x",
+        "balance": "0x0",
+        "nonce": "0x0",
+        "address": "0x9858e7d8b79fc3e6d989636721584498926da38a"
+      }
+    },
+    "transactions": {},
+    "selectedAddressTxList": [
+      {
+        "id": 3870222542191014,
+        "time": 1487271497135,
+        "status": "confirmed",
+        "gasMultiplier": 1,
+        "metamaskNetworkId": "3",
+        "txParams": {
+          "from": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+          "to": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+          "value": "0x38d7ea4c68000",
+          "metamaskId": 3870222542191014,
+          "metamaskNetworkId": "3",
+          "gas": "0x5209",
+          "gasPrice": "0x458d0be6b8",
+          "nonce": "0x0",
+          "gasLimit": "0x5209"
+        },
+        "gasLimitSpecified": false,
+        "estimatedGas": "0x5209",
+        "txFee": "17e0186e60800",
+        "txValue": "38d7ea4c68000",
+        "maxCost": "50b802bac8800",
+        "hash": "0x45daeb705b5b4dfeaddbd81efc95edfc8adbd229f8adbcb38f33cfc973dcc2ef"
+      },
+      {
+        "id": 3870222542191015,
+        "time": 1487271512355,
+        "status": "confirmed",
+        "gasMultiplier": 1,
+        "metamaskNetworkId": "3",
+        "txParams": {
+          "from": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+          "to": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+          "value": "0x0",
+          "metamaskId": 3870222542191015,
+          "metamaskNetworkId": "3",
+          "gas": "0x5209",
+          "nonce": "0x01",
+          "gasPrice": "0x458d0be6b8",
+          "gasLimit": "0x5209"
+        },
+        "gasLimitSpecified": false,
+        "estimatedGas": "0x5209",
+        "txFee": "17e0186e60800",
+        "txValue": "0",
+        "maxCost": "17e0186e60800",
+        "hash": "0x61581e70651fa917c0af0e8b3b2d2bdf7d4cee0f1925518a985ade0fd49b4fa8"
+      },
+      {
+        "id": 4768706228115573,
+        "time": 1487363153561,
+        "status": "unapproved",
+        "gasMultiplier": 1,
+        "metamaskNetworkId": "3",
+        "txParams": {
+          "from": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+          "to": "0x18a3462427bcc9133bb46e88bcbe39cd7ef0e761",
+          "value": "0xde0b6b3a7640000",
+          "metamaskId": 4768706228115573,
+          "metamaskNetworkId": "3",
+          "gas": "0x5209"
+        },
+        "gasLimitSpecified": false,
+        "estimatedGas": "0x5209",
+        "txFee": "17e0186e60800",
+        "txValue": "de0b6b3a7640000",
+        "maxCost": "de234b52e4a0800"
+      }
+    ],
+    "unapprovedMsgs": {},
+    "unapprovedMsgCount": 0,
+    "keyringTypes": [
+      "Simple Key Pair",
+      "HD Key Tree"
+    ],
+    "keyrings": [
+      {
+        "type": "HD Key Tree",
+        "accounts": [
+          "fdea65c8e26263f6d9a1b5de9555d2931a33b825",
+          "c5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+          "2f8d4a878cfa04a6e60d46362f5644deab66572d",
+          "18c643c9cf21027339c8648fbaa2f348ddcbe00a"
+        ]
+      },
+      {
+        "type": "Simple Key Pair",
+        "accounts": [
+          "0x9858e7d8b79fc3e6d989636721584498926da38a"
+        ]
+      }
+    ],
+    "selectedAddress": "0xc5b8dbac4c1d3f152cdeb400e2313f309c410acb",
+    "currentCurrency": "USD",
+    "provider": {
+      "type": "testnet"
+    },
+    "shapeShiftTxList": [],
+    "lostAccounts": []
+  },
+  "appState": {
+    "menuOpen": false,
+    "currentView": {
+      "name": "confTx",
+      "context": 0
+    },
+    "accountDetail": {
+      "subview": "transactions"
+    },
+    "transForward": true,
+    "isLoading": false,
+    "warning": null
+  },
+  "identities": {}
+}

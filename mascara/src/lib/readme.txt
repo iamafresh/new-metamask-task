@@ -1,0 +1,1 @@
+把service worker 转化为delicate worker

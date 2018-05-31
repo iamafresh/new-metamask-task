@@ -1,0 +1,62 @@
+{
+  "metamask": {
+    "isInitialized": false,
+    "isUnlocked": false,
+    "rpcTarget": "https://rawtestrpc.metamask.io/",
+    "identities": {},
+    "computedBalances": {},
+    "frequentRpcList": [],
+    "unapprovedTxs": {},
+    "currentCurrency": "USD",
+    "featureFlags": {"betaUI": false},
+    "conversionRate": 12.7527416,
+    "conversionDate": 1487624341,
+    "noActiveNotices": false,
+    "lastUnreadNotice": {
+      "read": false,
+      "date": "Thu Feb 09 2017",
+      "title": "Terms of Use",
+      "body": "# Terms of Use #\n\n**这是条款",
+      "id": 0
+    },
+    "network": "3",
+    "accounts": {},
+    "transactions": {},
+    "selectedAddressTxList": [],
+    "unapprovedMsgs": {},
+    "unapprovedMsgCount": 0,
+    "keyringTypes": [
+      "Simple Key Pair",
+      "HD Key Tree"
+    ],
+    "keyrings": [],
+    "currentCurrency": "USD",
+    "provider": {
+      "type": "testnet"
+    },
+    "shapeShiftTxList": [],
+    "lostAccounts": [],
+    "tokens": [],
+    "currentLocale": "zh_CN"
+  },
+  "appState": {
+    "menuOpen": false,
+    "currentView": {
+      "name": "accounts",
+      "detailView": null
+    },
+    "accountDetail": {
+      "subview": "transactions"
+    },
+    "transForward": true,
+    "isLoading": false,
+    "warning": null,
+    "modal": {
+      "modalState": {"name": null},
+      "open": false,
+      "previousModalState": {"name": null}
+    }
+  },
+  "identities": {},
+  "computedBalances": {}
+}
